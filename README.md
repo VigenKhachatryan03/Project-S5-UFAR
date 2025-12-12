@@ -15,9 +15,3 @@ This project develops a low-cost, IoT-based environmental monitoring system usin
 - **DHT22** temperature & humidity sensor
 - **SDS011** Nova PM2.5/PM10 sensor
 - **5V DC Brushless Cooling Fan** (optional for airflow)
-- **Breadboard** and **USB-UART interface**
-
-## Setup Instructions
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/your-username/environmental-monitoring.git
